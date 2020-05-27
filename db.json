@@ -113,32 +113,31 @@
         {
             
             "source": {
-                "id": "thewashingtonpost",
+                "id": null,
                 "name": "The Washington Post"
             },
-            "author": "",
+            "author": "Juventus",
             "title": "Kulusevski on meeting Ronaldo, throwing up at San Siro & how he rejected Inter because of Conte's tactics",
             "description": "The Sweden international has revealed the story behind his move to Juventus and ambitions for next season",
             "url": "https://www.goal.com/en/news/kulusevskimeetingronaldothrowingupatsansirorejected/1db8oj84sf7rv12h4l655edgnw",
             "urlToImage": "https://images.daznservices.com/di/library/GOAL/35/92/dejankulusevskicristianoronaldoantonioconte201920_16ktx0jytrdho1pw05xe0ptc6s.png?t=1467556850&quality=60&w=1600",
             "publishedAt": "20200527T05:20:22Z",
             "content": "New Juventus signing Dejan Kulusevski says he chose a move to Turin over Inter for tactical reasons, citing concerns over Antonio Conte’s setup at San Siro… [+1123 chars]"
-        },
-        
-        {
+        }{
             
             "source": {
-                "id": null,
-                "name": ""
+                "id": "financialtimes",
+                "name": "Financial Times"
             },
-            "author": "",
-            "title": "",
-            "description": "",
-            "url": "",
-            "urlToImage": "",
-            "publishedAt": "20200527T06:20:22Z",
-            "content": "\r\n… [+1542 chars]"
+            "author": null,
+            "title": "Global stock rally falters as Hong Kong braces for protests  Financial Times",
+            "description": "Investor optimism over recovery from coronavirus hit by rising USChina trade tensions",
+            "url": "https://www.ft.com/content/b86ccb96fea646ccbab4db40f7ebf9b1",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa1cc8473c55a46a59832b94fe0cafe1e.jpg?source=nextopengraph&fit=scaledown&width=900",
+            "publishedAt": "20200527T05:42:50Z",
+            "content": "A rally in global stocks lost steam as investor optimism was tempered by rising USChina tensions and as Hong Kong braced for new antigovernment protests.\r\nHong Kong’s Hang Seng index fell as much a… [+2630 chars]" 
         },
+
         
         {
             

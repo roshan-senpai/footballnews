@@ -2,26 +2,26 @@
 
     "status": "ok",
     "totalResults": 38,
-    -
+    
     "articles": [
-        -
+        
         {
-            -
+            
             "source": {
                 "id": null,
                 "name": "BBC"
             },
             "author": "Liverpool",
             "title": "Jordan Henderson: Premier League trophy win without fans would be 'pretty strange'",
-            "description": "Playing at Anfield and lifting the Premier League trophy without any fans will be "pretty strange, says Liverpool captain Jordan Henderson.",
+            "description": "Playing at Anfield and lifting the Premier League trophy without any fans will be pretty strange, says Liverpool captain Jordan Henderson.",
             "url": "https://www.bbc.com/sport/football/52810447",
-            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/16D15/production/_112516439_henderson-main.jpg",
-            "publishedAt": "2020-05-28T05:00:22Z",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/16D15/production/_112516439_hendersonmain.jpg",
+            "publishedAt": "20200528T05:00:22Z",
             "content": "Liverpool and other clubs returned to training last week with strict protocols in place, including training only in small groups, but Henderson said the measures are amazing and made the players feel safe… [+15122 chars]"
         },
-        -
+        
         {
-            -
+            
             "source": {
                 "id": null,
                 "name": "Sky Sports"
@@ -29,14 +29,14 @@
             "author": "Arsenal",
             "title": "Arsenal Women fined by FA over autistic coach's dismissal",
             "description": "FA fines Women's Super League club £50,000 and will require some members of staff to undertake education programme",
-            "url": "https://www.skysports.com/football/news/28508/11995660/arsenal-women-fined-by-fa-over-autistic-coachs-dismissal",
-            "urlToImage": "https://e1.365dm.com/19/08/768x432/skysports-arsenal-football_4744852.jpg?20190813192659",
-            "publishedAt": "2020-05-28T05:20:22Z",
+            "url": "https://www.skysports.com/football/news/28508/11995660/arsenalwomenfinedbyfaoverautisticcoachsdismissal",
+            "urlToImage": "https://e1.365dm.com/19/08/768x432/skysportsarsenalfootball_4744852.jpg?20190813192659",
+            "publishedAt": "20200528T05:20:22Z",
             "content": "The Women's Super League club had denied that its dismissal of U15 coach Robin Carpenter was an act of discrimination by reason of disability, but an independent regulatory… [+1542 chars]"
         },
-        -
+        
         {
-            -
+            
             "source": {
                 "id": null,
                 "name": "Sky Sports"
@@ -44,16 +44,16 @@
             "author": "Lyall Thomas",
             "title": "Arthur won't join Juventus after reiterating desire to stay at Barcelona",
             "description": "Barcelona's Arthur will not be joining Juventus this summer.",
-            "url": "https://www.skysports.com/football/news/11833/11995581/arthur-wont-join-juventus-after-reiterating-desire-to-stay-at-barcelona",
-            "urlToImage": "https://e0.365dm.com/20/04/768x432/skysports-arthur-melo-barcelona_4965153.jpg?20200408141048",
-            "publishedAt": "2020-05-27T06:20:22Z",
-            "content": "The 23-year-old Brazil midfielder has reiterated to both clubs that he does not want to leave the Nou Camp in the next transfer window, Sky Sports News has been told.… [+1312 chars]"
+            "url": "https://www.skysports.com/football/news/11833/11995581/arthurwontjoinjuventusafterreiteratingdesiretostayatbarcelona",
+            "urlToImage": "https://e0.365dm.com/20/04/768x432/skysportsarthurmelobarcelona_4965153.jpg?20200408141048",
+            "publishedAt": "20200527T06:20:22Z",
+            "content": "The 23yearold Brazil midfielder has reiterated to both clubs that he does not want to leave the Nou Camp in the next transfer window, Sky Sports News has been told.… [+1312 chars]"
         },
-        -
+        
         {
-            -
+            
             "source": {
-                "id": "the-washington-post",
+                "id": "thewashingtonpost",
                 "name": "The Washington Post"
             },
             "author": "",
@@ -61,42 +61,42 @@
             "description": "",
             "url": "",
             "urlToImage": "",
-            "publishedAt": "2020-05-28T06:20:22Z",
+            "publishedAt": "20200528T06:20:22Z",
             "content": "\r\n… [+1542 chars]"
         },
-        -
+        
         {
-            -
+            
             "source": {
-                "id": "the-washington-post",
+                "id": "thewashingtonpost",
                 "name": "The Washington Post"
             },
             "author": "Arsenal",
             "title": "David Luiz faces Arsenal exit with no contract extension talks planned",
-            "description": "Sky Sports News has learned Luiz moved to the Emirates on a one-year deal, rather than the widely-reported two-year contract",
-            "url": "https://www.skysports.com/football/news/11670/11995596/david-luiz-faces-arsenal-exit-with-no-contract-extension-talks-planned",
+            "description": "Sky Sports News has learned Luiz moved to the Emirates on a oneyear deal, rather than the widelyreported twoyear contract",
+            "url": "https://www.skysports.com/football/news/11670/11995596/davidluizfacesarsenalexitwithnocontractextensiontalksplanned",
             "urlToImage": "David Luiz's brief spell at Arsenal could be coming to an end with the Brazilian out of contract next month and no negotiations over a new deal planned.",
-            "publishedAt": "2020-05-27T06:20:22Z",
+            "publishedAt": "20200527T06:20:22Z",
             "content": "The Brazilian defender was an £8m Deadline Day signing from London rivals Chelsea last August, replacing club captain Laurent Koscielny, who joined Bordeaux the previous day.… [+1542 chars]"
         },
-        -
+        
         {
-            -
+            
             "source": {
                 "id": null,
                 "name": "Goal"
             },
             "author": "Jonathan Smith",
-            "title": "De Bruyne ready to commit long-term future to Manchester City",
+            "title": "De Bruyne ready to commit longterm future to Manchester City",
             "description": "Belgium midfielder is open to contract talks as Premier League champions get ready for appeal over Champions League ban",
-            "url": "https://www.goal.com/en/news/de-bruyne-long-term-future-man-city/lxqp2cxsf38q13s7v0nx31phf",
-            "urlToImage": "https://images.daznservices.com/di/library/GOAL/85/6a/kevin-de-bruyne-celebrates-vs-man-utd-at-old-trafford-2019-20_aem670fqgunu183nb3xmh10ji.jpg?t=-2042244689&quality=60&w=1600",
-            "publishedAt": "2020-05-26T06:10:22Z",
-            "content": "Kevin De Bruyne is open to extending his contract with Manchester City if the club are successful in overturning their two-year ban from the Champions League.… [+1542 chars]"
+            "url": "https://www.goal.com/en/news/debruynelongtermfuturemancity/lxqp2cxsf38q13s7v0nx31phf",
+            "urlToImage": "https://images.daznservices.com/di/library/GOAL/85/6a/kevindebruynecelebratesvsmanutdatoldtrafford201920_aem670fqgunu183nb3xmh10ji.jpg?t=2042244689&quality=60&w=1600",
+            "publishedAt": "20200526T06:10:22Z",
+            "content": "Kevin De Bruyne is open to extending his contract with Manchester City if the club are successful in overturning their twoyear ban from the Champions League.… [+1542 chars]"
         },
-        -
+        
         {
-            -
+            
             "source": {
                 "id": null,
                 "name": "Goal"
@@ -104,29 +104,29 @@
             "author": "Nizaar Kinsella",
             "title": "Chelsea to cash in on Boga interest with Sassuolo star a target for Roma, Napoli and Milan",
             "description": "Interest is mounting in the Blues' academy graduate following a stellar season in Serie A which has seen some of Italy's top clubs come calling",
-            "url": "https://www.goal.com/en/news/chelsea-cash-in-boga-interest-sassuolo-star-target-roma/fwaejybapzhv1e7y1dlj03f41",
-            "urlToImage": "https://images.daznservices.com/di/library/GOAL/94/46/jeremie-boga-sassuolo_162lfkr4wfaw91km0enzkxhq31.jpg?t=-96399137&quality=60&w=1600",
-            "publishedAt": "2020-05-26T07:20:22Z",
-            "content": "Chelsea are in advanced talks with Serie A side Sassuolo, which would see them earn an undisclosed one-off fee and exchange their buyback clause to a first… [+1542 chars]"
+            "url": "https://www.goal.com/en/news/chelseacashinbogainterestsassuolostartargetroma/fwaejybapzhv1e7y1dlj03f41",
+            "urlToImage": "https://images.daznservices.com/di/library/GOAL/94/46/jeremiebogasassuolo_162lfkr4wfaw91km0enzkxhq31.jpg?t=96399137&quality=60&w=1600",
+            "publishedAt": "20200526T07:20:22Z",
+            "content": "Chelsea are in advanced talks with Serie A side Sassuolo, which would see them earn an undisclosed oneoff fee and exchange their buyback clause to a first… [+1542 chars]"
         },
-        -
+        
         {
-            -
+            
             "source": {
-                "id": "the-washington-post",
+                "id": "thewashingtonpost",
                 "name": "The Washington Post"
             },
             "author": "",
             "title": "Kulusevski on meeting Ronaldo, throwing up at San Siro & how he rejected Inter because of Conte's tactics",
             "description": "The Sweden international has revealed the story behind his move to Juventus and ambitions for next season",
-            "url": "https://www.goal.com/en/news/kulusevski-meeting-ronaldo-throwing-up-at-san-siro-rejected/1db8oj84sf7rv12h4l655edgnw",
-            "urlToImage": "https://images.daznservices.com/di/library/GOAL/35/92/dejan-kulusevski-cristiano-ronaldo-antonio-conte-2019-20_16ktx0jytrdho1pw05xe0ptc6s.png?t=1467556850&quality=60&w=1600",
-            "publishedAt": "2020-05-27T05:20:22Z",
-            "content": "New Juventus signing Dejan Kulusevski says he chose a move to Turin over Inter for tactical reasons, citing concerns over Antonio Conte’s set-up at San Siro… [+1123 chars]"
+            "url": "https://www.goal.com/en/news/kulusevskimeetingronaldothrowingupatsansirorejected/1db8oj84sf7rv12h4l655edgnw",
+            "urlToImage": "https://images.daznservices.com/di/library/GOAL/35/92/dejankulusevskicristianoronaldoantonioconte201920_16ktx0jytrdho1pw05xe0ptc6s.png?t=1467556850&quality=60&w=1600",
+            "publishedAt": "20200527T05:20:22Z",
+            "content": "New Juventus signing Dejan Kulusevski says he chose a move to Turin over Inter for tactical reasons, citing concerns over Antonio Conte’s setup at San Siro… [+1123 chars]"
         },
-        -
+        
         {
-            -
+            
             "source": {
                 "id": null,
                 "name": ""
@@ -136,293 +136,53 @@
             "description": "",
             "url": "",
             "urlToImage": "",
-            "publishedAt": "2020-05-27T06:20:22Z",
+            "publishedAt": "20200527T06:20:22Z",
             "content": "\r\n… [+1542 chars]"
         },
-        -
+        
         {
-            -
+            
             "source": {
-                "id": "the-verge",
+                "id": "theverge",
                 "name": "The Verge"
             },
             "author": "Sam Byford",
-            "title": "Aaron Ramsdale: Bournemouth 'shook' by positive coronavirus test - Eddie Howe",
-            "description": "News of Bournemouth goalkeeper Aaron Ramsdale's positive coronavirus test "shook" the Premier League club, according to manager Eddie Howe.",
+            "title": "Aaron Ramsdale: Bournemouth 'shook' by positive coronavirus test  Eddie Howe",
+            "description": "News of Bournemouth goalkeeper Aaron Ramsdale's positive coronavirus test shook the Premier League club, according to manager Eddie Howe.",
             "url": "https://www.bbc.com/sport/football/52818258",
             "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/100B0/production/_112521756_hi061631028.jpg",
-            "publishedAt": "2020-27-27T06:04:18Z",
-            "content": "Ramsdale initially tested negative but returned a positive test days later\r\nThe 22-year-old was asymptomatic but is one of eight people to test positive from across the Premier League so far.… [+911 chars]"
+            "publishedAt": "20202727T06:04:18Z",
+            "content": "Ramsdale initially tested negative but returned a positive test days later\r\nThe 22yearold was asymptomatic but is one of eight people to test positive from across the Premier League so far.… [+911 chars]"
         },
-        -
+        
         {
-            -
+            
             "source": {
-                "id": "financial-times",
+                "id": "financialtimes",
                 "name": "Financial Times"
             },
             "author": null,
-            "title": "Global stock rally falters as Hong Kong braces for protests - Financial Times",
-            "description": "Investor optimism over recovery from coronavirus hit by rising US-China trade tensions",
-            "url": "https://www.ft.com/content/b86ccb96-fea6-46cc-bab4-db40f7ebf9b1",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa1cc8473-c55a-46a5-9832-b94fe0cafe1e.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2020-05-27T05:42:50Z",
-            "content": "A rally in global stocks lost steam as investor optimism was tempered by rising US-China tensions and as Hong Kong braced for new anti-government protests.\r\nHong Kong’s Hang Seng index fell as much a… [+2630 chars]" 
+            "title": "Global stock rally falters as Hong Kong braces for protests  Financial Times",
+            "description": "Investor optimism over recovery from coronavirus hit by rising USChina trade tensions",
+            "url": "https://www.ft.com/content/b86ccb96fea646ccbab4db40f7ebf9b1",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa1cc8473c55a46a59832b94fe0cafe1e.jpg?source=nextopengraph&fit=scaledown&width=900",
+            "publishedAt": "20200527T05:42:50Z",
+            "content": "A rally in global stocks lost steam as investor optimism was tempered by rising USChina tensions and as Hong Kong braced for new antigovernment protests.\r\nHong Kong’s Hang Seng index fell as much a… [+2630 chars]" 
         },
-        -
+        
         {
-            -
+            
             "source": {
                 "id": null,
                 "name": "Cbslocal.com"
             },
             "author": "CBS Minnesota",
-            "title": "‘I Can’t Breathe!’: Video Of Fatal Arrest Shows Minneapolis Officer Kneeling On George Floyd’s Neck For Several Minutes - CBS Minnesota",
+            "title": "‘I Can’t Breathe!’: Video Of Fatal Arrest Shows Minneapolis Officer Kneeling On George Floyd’s Neck For Several Minutes  CBS Minnesota",
             "description": "An FBI investigation is underway and four officers have been fired following a fatal encounter Monday between Minneapolis police and an unarmed black man.",
-            "url": "https://minnesota.cbslocal.com/2020/05/26/george-floyd-man-dies-after-being-arrested-by-minneapolis-police-fbi-called-to-investigate/",
-            "urlToImage": "https://minnesota.cbslocal.com/wp-content/uploads/sites/15909630/2020/05/Screen-Shot-2020-05-26-at-2.49.19-PM.png?w=1500",
-            "publishedAt": "2020-05-27T04:52:43Z",
-            "content": "MINNEAPOLIS (WCCO) — An FBI investigation is underway and four officers have been fired following a fatal encounter Monday between Minneapolis police and an unarmed 46-year-old black man named George… [+8448 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "",
-            "title": "LG's first 48-inch 4K OLED TV is starting to roll out - Engadget",
-            "description": "LG's smallest OLED TV is ready to be your 48-inch 4K gaming monitor.",
-            "url": "https://www.engadget.com/lg-48cx-4k-oled-022836116.html",
-            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F950918c0-9fc0-11ea-bfff-b866d63e3d29&client=amp-blogside-v2&signature=e7db7149f9dbd975c109810b133e70c152a45d65",
-            "publishedAt": "2020-05-27T04:36:05Z",
-            "content": "While many events and releases have been pushed back, LG has stuck to its release plans for the 2020 lineup of 4K TVs. Today the company announced the newest addition to its OLED lineup is starting t… [+418 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sam Meredith",
-            "title": "IEA says the coronavirus crisis has set in motion the largest drop of global energy investment in history - CNBC",
-            "description": "The IEA warned the economic impact of the health crisis could have \"serious\" implications for energy security and clean energy transitions.",
-            "url": "https://www.cnbc.com/2020/05/27/coronavirus-iea-expects-historic-fall-in-global-energy-investment.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106551980-1590500076355gettyimages-1210956414.jpeg?v=1590500198",
-            "publishedAt": "2020-05-27T04:13:01Z",
-            "content": "An aerial view shows pumpjacks in the South Belridge Oil Field on April 24, 2020 near McKittrick, California.\r\nThe International Energy Agency believes the coronavirus pandemic has paved the way for … [+4635 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Eric Mack",
-            "title": "A NASA mission like no other: SpaceX makes spaceflight modern again - CNET",
-            "description": "The historic Demo-2 mission scheduled for May 27 gets astronauts out of the '70s, finally.",
-            "url": "https://www.cnet.com/news/nasa-mission-like-no-other-spacex-makes-spaceflight-modern-again/",
-            "urlToImage": "https://cnet3.cbsistatic.com/img/OiKk5KUBtJJs_nGsEYWvoRfX0is=/2020/05/14/aba34ce0-cf31-440b-af88-ffe905cc070d/twitter-in-stream-wide-ksc-20180830-ph-spx01-0004-orig.jpg",
-            "publishedAt": "2020-05-27T04:10:41Z",
-            "content": "Crew Dragon on the launchpad at Kennedy Space Center in Florida prior to launch.\r\nNASA/Joel Kowsky\r\nHundreds of humans have been launched into space over the past six decades. But when NASA astronaut… [+4580 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": null,
-            "title": "Chase Elliott ends Kyle Busch's Truck Series winning streak, earns $100K bounty - ESPN",
-            "description": "Chase Elliott snapped Kyle Busch's seven-race Truck Series winning streak, earning a $100,000 bounty in the process, on Tuesday at Charlotte Motor Speedway. The money will go to coronavirus pandemic relief efforts.",
-            "url": "https://www.espn.com/racing/nascar/story/_/id/29226170/chase-elliott-ends-kyle-busch-truck-series-winning-streak-earns-100k-bounty",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0527%2Fr702557_1296x729_16%2D9.jpg",
-            "publishedAt": "2020-05-27T03:13:10Z",
-            "content": "CONCORD, N.C. -- Chase Elliott snapped Kyle Busch's seven-race Truck Series winning streak and collected a $100,000 bounty for beating NASCAR's most successful truck driver on Tuesday at Charlotte Mo… [+3968 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Vicky McKeever",
-            "title": "Here's where in Europe you might be able to go on vacation this summer - CNBC",
-            "description": "With more countries easing coronavirus lockdowns in an effort to restart their economies as summer gets underway, CNBC takes a look at where you might be able to go on vacation in the coming months.",
-            "url": "https://www.cnbc.com/2020/05/26/heres-where-in-europe-you-might-be-able-to-go-on-vacation-this-summer.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106551727-1590490849910gettyimages-1180055107.jpg?v=1590491002",
-            "publishedAt": "2020-05-27T02:44:18Z",
-            "content": "With more countries easing coronavirus lockdowns in an effort to restart their economies as summer gets underway, CNBC takes a look at where you might be able to go on vacation in the coming months. … [+5043 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Gabriel Fernandez",
-            "title": "2020 Stanley Cup odds: Bruins, Golden Knights lead latest odds after NHL releases updated postseason - CBS Sports",
-            "description": "All you need to know for Stanley Cup betting action",
-            "url": "https://www.cbssports.com/nhl/news/2020-stanley-cup-odds-bruins-golden-knights-lead-latest-odds-after-nhl-releases-updated-postseason/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/03/04/99ece9f0-c05c-45f9-9afb-215b8fbc28d6/thumbnail/1200x675/627402dbef0437e16325e71d422a895c/usatsi-14132603.jpg",
-            "publishedAt": "2020-05-27T02:37:35Z",
-            "content": "The NHL became the first major American sports league to announce its intention to return with live sports play on Tuesday. While fans might have to wait a bit for the action to fully return, there's… [+1732 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": null,
-                "name": "Los Angeles Times"
-            },
-            "author": "Jaclyn Cosgrove",
-            "title": "L.A. County asking state to let businesses to reopen sooner - Los Angeles Times",
-            "description": "Los Angeles County officials will apply Wednesday for a process to accelerate reopening some businesses shuttered by the coronavirus outbreak.",
-            "url": "https://www.latimes.com/california/story/2020-05-26/la-county-businesses-reopen-variance-coronavirus",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/c16b7d0/2147483647/strip/true/crop/2400x1260+0+301/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F88%2Fdd%2F83be9e7018e8c8563525b660ae9b%2Fimg-la-photos-1staff-466-2-1-c95tjame.jpg",
-            "publishedAt": "2020-05-27T02:19:18Z",
-            "content": "Los Angeles County officials said Tuesday they will ask the state to allow a speedier reopening of restaurants in the county offering in-person dining and other businesses shuttered by the coronaviru… [+3625 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": null,
-                "name": "New York Times Australia"
-            },
-            "author": "Sydney Ember",
-            "title": "Biden, Urging Face Masks, Calls Trump a ‘Fool’ for Not Wearing One - The New York Times",
-            "description": "Joseph Biden, in his first in-person interview since the coronavirus curtailed his campaign, suggested the president was being “falsely masculine’’ by refusing to wear a mask.",
-            "url": "https://www.nytimes.com/2020/05/26/us/politics/joe-biden-facemasks-trump-coronavirus.html",
-            "urlToImage": "https://static01.nyt.com/images/2020/05/26/us/politics/26biden/26biden-facebookJumbo.jpg",
-            "publishedAt": "2020-05-27T01:55:01Z",
-            "content": "Joseph R. Biden Jr. laced into President Trump on Tuesday, calling him an absolute fool for refusing to wear a mask in public on Memorial Day and for appearing to scoff at the former vice president f… [+6244 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Trump's 2016 campaign brass warns he's in trouble in 2020 - POLITICO",
-            "description": "Corey Lewandowski and David Bossie told the president he's down in swing states, prompting campaign chiefs in Arizona and Florida to travel to D.C.",
-            "url": "https://www.politico.com/news/2020/05/26/trump-campaign-lewandowski-bossie-283089",
-            "urlToImage": "https://static.politico.com/c2/41/c1a66f5040f3b4329439831543e3/200526-bossielewandowski-ap-773.jpg",
-            "publishedAt": "2020-05-27T01:42:04Z",
-            "content": "Bossie and Lewandowski, who served as top aides on Trumps 2016 effort, complained to the president about his political operation. Trumps campaign team, in response decided to rush their Arizona and F… [+2764 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": null,
-                "name": "Theguardian.comworld"
-            },
-            "author": "Helen Davidson",
-            "title": "Hong Kong crisis: Trump warns China he will take action as protests loom - The Guardian",
-            "description": "US president ‘displeased’ with efforts by Beijing to impose national security laws, as Chinese president says military must prepare for confrontations",
-            "url": "https://amp.theguardian.comworld/2020/may/27/hong-kong-trump-china-security-crackdown-protests",
-            "urlToImage": "https://i.guim.co.uk/img/media/1e6ca0bfb6b90679b82d33690006bd6ba7add071/0_78_5016_3010/master/5016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd5b5a15998a32973e11e10ed4c5f65d",
-            "publishedAt": "2020-05-27T01:28:41Z",
-            "content": "US president Donald Trump has warned China he is preparing to take action over its efforts to impose national security laws on Hong Kong, as police flooded the city and made their first arrests ahead… [+4551 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Elizabeth Dwoskin",
-            "title": "Twitter labels Trump’s tweets with a fact check for the first time - The Washington Post",
-            "description": "For the first time, Twitter is slapping a warning label on Trump's tweets, responding to critics who have long said the company was too hands-off and escalating tension between Silicon Valley and Washington.",
-            "url": "https://www.washingtonpost.com/technology/2020/05/26/trump-twitter-label-fact-check/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BYFC4EE7TMI6VPQGV5KRJ3QDQU.jpg&w=1440",
-            "publishedAt": "2020-05-27T00:27:41Z",
-            "content": "There is NO WAY (ZERO!) that Mail-In Ballots will be anything less than substantially fraudulent. Mail boxes will be robbed, ballots will be forged &amp; even illegally printed out &amp; fraudulently… [+6623 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Vincent Barone",
-            "title": "UConn senior accused of killing two men was looking for young woman - New York Post ",
-            "description": "The University of Connecticut senior accused of killing two men and injuring another was looking for a young woman he knew as he carried out his murderous spree, according to the wife of one of his…",
-            "url": "https://nypost.com/2020/05/26/uconn-senior-accused-of-killing-two-men-was-looking-for-woman/",
-            "urlToImage": "https://thenypost.files.wordpress.com/2020/05/peter-manfredonia-7.jpg?quality=90&strip=all&w=1200",
-            "publishedAt": "2020-05-27T00:19:21Z",
-            "content": "The University of Connecticut senior accused of killing two men and injuring another was looking for a young woman he knew as he carried out his murderous spree, according to the wife of one of his v… [+2393 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": null,
-            "title": "Facebook targets FaceTime Audio with its newest experimental app ‘CatchUp’ - 9to5Mac",
-            "description": "As most of the world focuses heavily on video conferencing, Facebook’s new product experimentation team has debuted its latest experimental app dubbed “CatchUp.” As reported by TechCrunch, CatchUp focuses on allowing people to make audio calls with up to eigh…",
-            "url": "https://9to5mac.com/2020/05/26/facebook-catchup-app/",
-            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2020/05/Image-5.jpeg?resize=1024,512",
-            "publishedAt": "2020-05-26T23:58:12Z",
-            "content": "As most of the world focuses heavily on video conferencing, Facebooks new product experimentation team has debuted its latest experimental app dubbed CatchUp. As reported by TechCrunch, CatchUp focus… [+1736 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "TV host Jimmy Fallon 'very sorry' for 2000 blackface skit - BBC News",
-            "description": "The NBC's Tonight Show host called his depiction of comedian Chris Rock \"unquestionably offensive\".",
-            "url": "https://www.bbc.com/news/world-us-canada-52815624",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5A97/production/_112519132_gettyimages-664158820.jpg",
-            "publishedAt": "2020-05-26T23:31:00Z",
-            "content": "Image copyrightGetty Images\r\nNBC's Tonight Show host Jimmy Fallon has apologised for wearing blackface in a Saturday Night Live skit from 2000.\r\nThe clip went viral on Monday, and led to calls for Fa… [+2572 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Caroline Humer",
-            "title": "Fears of coronavirus second wave prompt flu push at U.S. pharmacies, drugmakers - Reuters",
-            "description": "U.S. pharmacy chains are preparing a big push for flu vaccinations when the season kicks off in October, hoping to curb tens of thousands of serious cases that could coincide with a second wave of coronavirus infections.",
-            "url": "https://www.reuters.com/article/us-health-coronavirus-flu-focus-idUSKBN2321F0",
-            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200526&t=2&i=1519919615&w=1200&r=LYNXMPEG4P0WH",
-            "publishedAt": "2020-05-26T23:27:00Z",
-            "content": "NEW YORK (Reuters) - U.S. pharmacy chains are preparing a big push for flu vaccinations when the season kicks off in October, hoping to curb tens of thousands of serious cases that could coincide wit… [+4985 chars]"
-        },
-        -
-        {
-            -
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Alice Scott",
-            "title": "Chimpanzees help trace the evolution of human speech back to ancient ancestors - Phys.org",
-            "description": "One of the most promising theories for the evolution of human speech has finally received support from chimpanzee communication, in a study conducted by a group of researchers led by the University of Warwick.",
-            "url": "https://phys.org/news/2020-05-chimpanzees-evolution-human-speech-ancient.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/chimpanzeesh.jpg",
-            "publishedAt": "2020-05-26T23:19:13Z",
-            "content": "One of the most promising theories for the evolution of human speech has finally received support from chimpanzee communication, in a study conducted by a group of researchers led by the University o… [+3995 chars]"
+            "url": "https://minnesota.cbslocal.com/2020/05/26/georgefloydmandiesafterbeingarrestedbyminneapolispolicefbicalledtoinvestigate/",
+            "urlToImage": "https://minnesota.cbslocal.com/wpcontent/uploads/sites/15909630/2020/05/ScreenShot20200526at2.49.19PM.png?w=1500",
+            "publishedAt": "20200527T04:52:43Z",
+            "content": "MINNEAPOLIS (WCCO) — An FBI investigation is underway and four officers have been fired following a fatal encounter Monday between Minneapolis police and an unarmed 46yearold black man named George… [+8448 chars]"
         }
     ]
 

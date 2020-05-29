@@ -1,189 +1,134 @@
 {
-
-    "status": "ok",
-    "totalResults": 38,
-    
-    "articles": [
-        
-        {
-            
-            "source": {
-                "id": null,
-                "name": "BBC"
-            },
-            "author": "Liverpool",
-            "title": "Jordan Henderson: Premier League trophy win without fans would be 'pretty strange'",
-            "description": "Playing at Anfield and lifting the Premier League trophy without any fans will be pretty strange, says Liverpool captain Jordan Henderson.",
-            "url": "https://www.bbc.com/sport/football/52810447",
-            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/16D15/production/_112516439_hendersonmain.jpg",
-            "publishedAt": "20200528T05:00:22Z",
-            "content": "Liverpool and other clubs returned to training last week with strict protocols in place, including training only in small groups, but Henderson said the measures are amazing and made the players feel safe… [+15122 chars]"
-        },
-        
-        {
-            
-            "source": {
-                "id": null,
-                "name": "Sky Sports"
-            },
-            "author": "Arsenal",
-            "title": "Arsenal Women fined by FA over autistic coach's dismissal",
-            "description": "FA fines Women's Super League club £50,000 and will require some members of staff to undertake education programme",
-            "url": "https://www.skysports.com/football/news/28508/11995660/arsenalwomenfinedbyfaoverautisticcoachsdismissal",
-            "urlToImage": "https://e1.365dm.com/19/08/768x432/skysportsarsenalfootball_4744852.jpg?20190813192659",
-            "publishedAt": "20200528T05:20:22Z",
-            "content": "The Women's Super League club had denied that its dismissal of U15 coach Robin Carpenter was an act of discrimination by reason of disability, but an independent regulatory… [+1542 chars]"
-        },
-        
-        {
-            
-            "source": {
-                "id": null,
-                "name": "Sky Sports"
-            },
-            "author": "Lyall Thomas",
-            "title": "Arthur won't join Juventus after reiterating desire to stay at Barcelona",
-            "description": "Barcelona's Arthur will not be joining Juventus this summer.",
-            "url": "https://www.skysports.com/football/news/11833/11995581/arthurwontjoinjuventusafterreiteratingdesiretostayatbarcelona",
-            "urlToImage": "https://e0.365dm.com/20/04/768x432/skysportsarthurmelobarcelona_4965153.jpg?20200408141048",
-            "publishedAt": "20200527T06:20:22Z",
-            "content": "The 23yearold Brazil midfielder has reiterated to both clubs that he does not want to leave the Nou Camp in the next transfer window, Sky Sports News has been told.… [+1312 chars]"
-        },
-        
-        {
-            
-            "source": {
-                "id": "thewashingtonpost",
-                "name": "The Washington Post"
-            },
-            "author": "",
-            "title": "",
-            "description": "",
-            "url": "",
-            "urlToImage": "",
-            "publishedAt": "20200528T06:20:22Z",
-            "content": "\r\n… [+1542 chars]"
-        },
-        
-        {
-            
-            "source": {
-                "id": "thewashingtonpost",
-                "name": "The Washington Post"
-            },
-            "author": "Arsenal",
-            "title": "David Luiz faces Arsenal exit with no contract extension talks planned",
-            "description": "Sky Sports News has learned Luiz moved to the Emirates on a oneyear deal, rather than the widelyreported twoyear contract",
-            "url": "https://www.skysports.com/football/news/11670/11995596/davidluizfacesarsenalexitwithnocontractextensiontalksplanned",
-            "urlToImage": "David Luiz's brief spell at Arsenal could be coming to an end with the Brazilian out of contract next month and no negotiations over a new deal planned.",
-            "publishedAt": "20200527T06:20:22Z",
-            "content": "The Brazilian defender was an £8m Deadline Day signing from London rivals Chelsea last August, replacing club captain Laurent Koscielny, who joined Bordeaux the previous day.… [+1542 chars]"
-        },
-        
-        {
-            
-            "source": {
-                "id": null,
-                "name": "Goal"
-            },
-            "author": "Jonathan Smith",
-            "title": "De Bruyne ready to commit longterm future to Manchester City",
-            "description": "Belgium midfielder is open to contract talks as Premier League champions get ready for appeal over Champions League ban",
-            "url": "https://www.goal.com/en/news/debruynelongtermfuturemancity/lxqp2cxsf38q13s7v0nx31phf",
-            "urlToImage": "https://images.daznservices.com/di/library/GOAL/85/6a/kevindebruynecelebratesvsmanutdatoldtrafford201920_aem670fqgunu183nb3xmh10ji.jpg?t=2042244689&quality=60&w=1600",
-            "publishedAt": "20200526T06:10:22Z",
-            "content": "Kevin De Bruyne is open to extending his contract with Manchester City if the club are successful in overturning their twoyear ban from the Champions League.… [+1542 chars]"
-        },
-        
-        {
-            
-            "source": {
-                "id": null,
-                "name": "Goal"
-            },
-            "author": "Nizaar Kinsella",
-            "title": "Chelsea to cash in on Boga interest with Sassuolo star a target for Roma, Napoli and Milan",
-            "description": "Interest is mounting in the Blues' academy graduate following a stellar season in Serie A which has seen some of Italy's top clubs come calling",
-            "url": "https://www.goal.com/en/news/chelseacashinbogainterestsassuolostartargetroma/fwaejybapzhv1e7y1dlj03f41",
-            "urlToImage": "https://images.daznservices.com/di/library/GOAL/94/46/jeremiebogasassuolo_162lfkr4wfaw91km0enzkxhq31.jpg?t=96399137&quality=60&w=1600",
-            "publishedAt": "20200526T07:20:22Z",
-            "content": "Chelsea are in advanced talks with Serie A side Sassuolo, which would see them earn an undisclosed oneoff fee and exchange their buyback clause to a first… [+1542 chars]"
-        },
-        
-        {
-            
-            "source": {
-                "id": "thewashingtonpost",
-                "name": "The Washington Post"
-            },
-            "author": "",
-            "title": "Kulusevski on meeting Ronaldo, throwing up at San Siro & how he rejected Inter because of Conte's tactics",
-            "description": "The Sweden international has revealed the story behind his move to Juventus and ambitions for next season",
-            "url": "https://www.goal.com/en/news/kulusevskimeetingronaldothrowingupatsansirorejected/1db8oj84sf7rv12h4l655edgnw",
-            "urlToImage": "https://images.daznservices.com/di/library/GOAL/35/92/dejankulusevskicristianoronaldoantonioconte201920_16ktx0jytrdho1pw05xe0ptc6s.png?t=1467556850&quality=60&w=1600",
-            "publishedAt": "20200527T05:20:22Z",
-            "content": "New Juventus signing Dejan Kulusevski says he chose a move to Turin over Inter for tactical reasons, citing concerns over Antonio Conte’s setup at San Siro… [+1123 chars]"
-        },
-        
-        {
-            
-            "source": {
-                "id": null,
-                "name": ""
-            },
-            "author": "",
-            "title": "",
-            "description": "",
-            "url": "",
-            "urlToImage": "",
-            "publishedAt": "20200527T06:20:22Z",
-            "content": "\r\n… [+1542 chars]"
-        },
-        
-        {
-            
-            "source": {
-                "id": "theverge",
-                "name": "The Verge"
-            },
-            "author": "Sam Byford",
-            "title": "Aaron Ramsdale: Bournemouth 'shook' by positive coronavirus test  Eddie Howe",
-            "description": "News of Bournemouth goalkeeper Aaron Ramsdale's positive coronavirus test shook the Premier League club, according to manager Eddie Howe.",
-            "url": "https://www.bbc.com/sport/football/52818258",
-            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/100B0/production/_112521756_hi061631028.jpg",
-            "publishedAt": "20202727T06:04:18Z",
-            "content": "Ramsdale initially tested negative but returned a positive test days later\r\nThe 22yearold was asymptomatic but is one of eight people to test positive from across the Premier League so far.… [+911 chars]"
-        },
-        
-        {
-            
-            "source": {
-                "id": "financialtimes",
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Global stock rally falters as Hong Kong braces for protests  Financial Times",
-            "description": "Investor optimism over recovery from coronavirus hit by rising USChina trade tensions",
-            "url": "https://www.ft.com/content/b86ccb96fea646ccbab4db40f7ebf9b1",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa1cc8473c55a46a59832b94fe0cafe1e.jpg?source=nextopengraph&fit=scaledown&width=900",
-            "publishedAt": "20200527T05:42:50Z",
-            "content": "A rally in global stocks lost steam as investor optimism was tempered by rising USChina tensions and as Hong Kong braced for new antigovernment protests.\r\nHong Kong’s Hang Seng index fell as much a… [+2630 chars]" 
-        },
-        
-        {
-            
-            "source": {
-                "id": null,
-                "name": "Cbslocal.com"
-            },
-            "author": "CBS Minnesota",
-            "title": "‘I Can’t Breathe!’: Video Of Fatal Arrest Shows Minneapolis Officer Kneeling On George Floyd’s Neck For Several Minutes  CBS Minnesota",
-            "description": "An FBI investigation is underway and four officers have been fired following a fatal encounter Monday between Minneapolis police and an unarmed black man.",
-            "url": "https://minnesota.cbslocal.com/2020/05/26/georgefloydmandiesafterbeingarrestedbyminneapolispolicefbicalledtoinvestigate/",
-            "urlToImage": "https://minnesota.cbslocal.com/wpcontent/uploads/sites/15909630/2020/05/ScreenShot20200526at2.49.19PM.png?w=1500",
-            "publishedAt": "20200527T04:52:43Z",
-            "content": "MINNEAPOLIS (WCCO) — An FBI investigation is underway and four officers have been fired following a fatal encounter Monday between Minneapolis police and an unarmed 46yearold black man named George… [+8448 chars]"
-        }
-    ]
-
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC"
+      },
+      "author": "Liverpool",
+      "title": "Jordan Henderson: Premier League trophy win without fans would be 'pretty strange'",
+      "description": "Playing at Anfield and lifting the Premier League trophy without any fans will be pretty strange, says Liverpool captain Jordan Henderson.",
+      "url": "https://www.bbc.com/sport/football/52810447",
+      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/16D15/production/_112516439_hendersonmain.jpg",
+      "publishedAt": "20200528T05:00:22Z",
+      "content": "Liverpool and other clubs returned to training last week with strict protocols in place, including training only in small groups, but Henderson said the measures are amazing and made the players feel safe… [+15122 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": "Arsenal",
+      "title": "Arsenal Women fined by FA over autistic coach's dismissal",
+      "description": "FA fines Women's Super League club £50,000 and will require some members of staff to undertake education programme",
+      "url": "https://www.skysports.com/football/news/28508/11995660/arsenalwomenfinedbyfaoverautisticcoachsdismissal",
+      "urlToImage": "https://e1.365dm.com/19/08/768x432/skysportsarsenalfootball_4744852.jpg?20190813192659",
+      "publishedAt": "20200528T05:20:22Z",
+      "content": "The Women's Super League club had denied that its dismissal of U15 coach Robin Carpenter was an act of discrimination by reason of disability, but an independent regulatory… [+1542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": "Lyall Thomas",
+      "title": "Arthur won't join Juventus after reiterating desire to stay at Barcelona",
+      "description": "Barcelona's Arthur will not be joining Juventus this summer.",
+      "url": "https://www.skysports.com/football/news/11833/11995581/arthurwontjoinjuventusafterreiteratingdesiretostayatbarcelona",
+      "urlToImage": "https://e0.365dm.com/20/04/768x432/skysportsarthurmelobarcelona_4965153.jpg?20200408141048",
+      "publishedAt": "20200527T06:20:22Z",
+      "content": "The 23yearold Brazil midfielder has reiterated to both clubs that he does not want to leave the Nou Camp in the next transfer window, Sky Sports News has been told.… [+1312 chars]"
+    },
+    {
+      "source": {
+        "id": "thewashingtonpost",
+        "name": "The Washington Post"
+      },
+      "author": "Arsenal",
+      "title": "David Luiz faces Arsenal exit with no contract extension talks planned",
+      "description": "Sky Sports News has learned Luiz moved to the Emirates on a oneyear deal, rather than the widelyreported twoyear contract",
+      "url": "https://www.skysports.com/football/news/11670/11995596/davidluizfacesarsenalexitwithnocontractextensiontalksplanned",
+      "urlToImage": "David Luiz's brief spell at Arsenal could be coming to an end with the Brazilian out of contract next month and no negotiations over a new deal planned.",
+      "publishedAt": "20200527T06:20:22Z",
+      "content": "The Brazilian defender was an £8m Deadline Day signing from London rivals Chelsea last August, replacing club captain Laurent Koscielny, who joined Bordeaux the previous day.… [+1542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Goal"
+      },
+      "author": "Jonathan Smith",
+      "title": "De Bruyne ready to commit longterm future to Manchester City",
+      "description": "Belgium midfielder is open to contract talks as Premier League champions get ready for appeal over Champions League ban",
+      "url": "https://www.goal.com/en/news/debruynelongtermfuturemancity/lxqp2cxsf38q13s7v0nx31phf",
+      "urlToImage": "https://images.daznservices.com/di/library/GOAL/85/6a/kevindebruynecelebratesvsmanutdatoldtrafford201920_aem670fqgunu183nb3xmh10ji.jpg?t=2042244689&quality=60&w=1600",
+      "publishedAt": "20200526T06:10:22Z",
+      "content": "Kevin De Bruyne is open to extending his contract with Manchester City if the club are successful in overturning their twoyear ban from the Champions League.… [+1542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Goal"
+      },
+      "author": "Nizaar Kinsella",
+      "title": "Chelsea to cash in on Boga interest with Sassuolo star a target for Roma, Napoli and Milan",
+      "description": "Interest is mounting in the Blues' academy graduate following a stellar season in Serie A which has seen some of Italy's top clubs come calling",
+      "url": "https://www.goal.com/en/news/chelseacashinbogainterestsassuolostartargetroma/fwaejybapzhv1e7y1dlj03f41",
+      "urlToImage": "https://images.daznservices.com/di/library/GOAL/94/46/jeremiebogasassuolo_162lfkr4wfaw91km0enzkxhq31.jpg?t=96399137&quality=60&w=1600",
+      "publishedAt": "20200526T07:20:22Z",
+      "content": "Chelsea are in advanced talks with Serie A side Sassuolo, which would see them earn an undisclosed oneoff fee and exchange their buyback clause to a first… [+1542 chars]"
+    },
+    {
+      "source": {
+        "id": "thewashingtonpost",
+        "name": "The Washington Post"
+      },
+      "author": "",
+      "title": "Kulusevski on meeting Ronaldo, throwing up at San Siro & how he rejected Inter because of Conte's tactics",
+      "description": "The Sweden international has revealed the story behind his move to Juventus and ambitions for next season",
+      "url": "https://www.goal.com/en/news/kulusevskimeetingronaldothrowingupatsansirorejected/1db8oj84sf7rv12h4l655edgnw",
+      "urlToImage": "https://images.daznservices.com/di/library/GOAL/35/92/dejankulusevskicristianoronaldoantonioconte201920_16ktx0jytrdho1pw05xe0ptc6s.png?t=1467556850&quality=60&w=1600",
+      "publishedAt": "20200527T05:20:22Z",
+      "content": "New Juventus signing Dejan Kulusevski says he chose a move to Turin over Inter for tactical reasons, citing concerns over Antonio Conte’s setup at San Siro… [+1123 chars]"
+    },
+    {
+      "source": {
+        "id": "theverge",
+        "name": "The Verge"
+      },
+      "author": "Sam Byford",
+      "title": "Aaron Ramsdale: Bournemouth 'shook' by positive coronavirus test  Eddie Howe",
+      "description": "News of Bournemouth goalkeeper Aaron Ramsdale's positive coronavirus test shook the Premier League club, according to manager Eddie Howe.",
+      "url": "https://www.bbc.com/sport/football/52818258",
+      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/100B0/production/_112521756_hi061631028.jpg",
+      "publishedAt": "20202727T06:04:18Z",
+      "content": "Ramsdale initially tested negative but returned a positive test days later\r\nThe 22yearold was asymptomatic but is one of eight people to test positive from across the Premier League so far.… [+911 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sam Meredith",
+      "title": "IEA says the coronavirus crisis has set in motion the largest drop of global energy investment in history  CNBC",
+      "description": "The IEA warned the economic impact of the health crisis could have \"serious\" implications for energy security and clean energy transitions.",
+      "url": "https://www.cnbc.com/2020/05/27/coronavirusieaexpectshistoricfallinglobalenergyinvestment.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/1065519801590500076355gettyimages1210956414.jpeg?v=1590500198",
+      "publishedAt": "20200527T04:13:01Z",
+      "content": "An aerial view shows pumpjacks in the South Belridge Oil Field on April 24, 2020 near McKittrick, California.\r\nThe International Energy Agency believes the coronavirus pandemic has paved the way for … [+4635 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": null,
+      "title": "Chase Elliott ends Kyle Busch's Truck Series winning streak, earns $100K bounty  ESPN",
+      "description": "Chase Elliott snapped Kyle Busch's sevenrace Truck Series winning streak, earning a $100,000 bounty in the process, on Tuesday at Charlotte Motor Speedway. The money will go to coronavirus pandemic relief efforts.",
+      "url": "https://www.espn.com/racing/nascar/story/_/id/29226170/chaseelliottendskylebuschtruckserieswinningstreakearns100kbounty",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0527%2Fr702557_1296x729_16%2D9.jpg",
+      "publishedAt": "20200527T03:13:10Z",
+      "content": "CONCORD, N.C.  Chase Elliott snapped Kyle Busch's sevenrace Truck Series winning streak and collected a $100,000 bounty for beating NASCAR's most successful truck driver on Tuesday at Charlotte Mo… [+3968 chars]"
+    }
+  ]
 }
